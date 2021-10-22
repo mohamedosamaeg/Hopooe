@@ -1,0 +1,35 @@
+<html>
+<body>
+    <img src="Mohamed.jpeg" 
+     alt="mohamed's photo"
+     style="width: 200px;height: 200px; ">
+        <h3><p id="name">Mohamed Osama Selim</p></h3>
+
+         <p id="email">imokhamedusamaelsai@urfu.me</p>
+    
+            <h3>CV Highlights</h3>
+            <p> 
+            <ul>
+                <li>Software Engineering Student, Photographer</li>
+                <li>Learnt basic C# , HTML and CSS</li>
+                <li>Good Skills at Adobe photoshop, adobe premier.</li></ul>
+            </p>
+ 
+            <h3>Personal Information:</h3>
+            <p> 
+          
+            <ul>
+            <li>
+                A young man, 19 years old.
+                <li>
+                <span id="course-name">Languages Known:</span>English, Arabic, Russian and French </li>
+                <li>
+                <span id="course-name"> Hobbies:</span>I love Photography, Tech Content, fitness.</li> 
+                </style>
+                </ul>
+        
+            </p>
+            
+    
+    </body>
+</html>
